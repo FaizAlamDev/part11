@@ -7,7 +7,7 @@ import PokemonList from '../src/PokemonList'
 
 const pokemonList = [{
   url: 'https://pokeapi.co/api/v2/pokemon/1/',
-  name: 'bulbasaur',
+  name: 'bulbasaor',
   id: 1
 }, {
   url: 'https://pokeapi.co/api/v2/pokemon/133/',
